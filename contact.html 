@@ -15,7 +15,7 @@
   </head>
   <body>
     <h1 class ="header">
-      Veda Lee
+      Where to Contact Me
     </h1>
     <div class="navigation">
     <a href=" ">Home</a>
@@ -28,10 +28,7 @@
       About Me
     </h2>
     <h3>
-      My name is Veda Lee and I'm currently a Junior in Balboa High School. 
-      Some of my hobbies and interestes are drawing, gaming, listening to music, and biking. 
-      I started taking interest in coding and the STEM field since middle school when they offered STEM classes. 
-      That's why I started taking more coding classes in high school because I want to major and pursue a career in the STEM field. 
+    
     </h3>
   </body>
 </html>
