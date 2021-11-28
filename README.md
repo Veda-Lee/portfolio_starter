@@ -34,81 +34,81 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 ### CSS
 
-- [ ] Choose 2-4 colors for your theme and add them as font or background colors.
+- [x] Choose 2-4 colors for your theme and add them as font or background colors.
 
 - [x] Add flexbox to your navigation bar.
 
-- [ ] Add at least 1 Google Font.
+- [x] Add at least 1 Google Font.
 
 ### Wrap
 
-- [ ] If you finish early begin Day 3 tasks. 
-- [ ] Submit your work to the session agenda.
+- [x] If you finish early begin Day 3 tasks. 
+- [x] Submit your work to the session agenda.
 
 ## Day 3
 
 ### Set Up
 
-- [ ] Link your homepage and About Me pages together using your nav bar.
+- [x] Link your homepage and About Me pages together using your nav bar.
 
-- [ ] Add two more HTML files (Projects, Contact) to your Portfolio and link them all together.
+- [x] Add two more HTML files (Projects, Contact) to your Portfolio and link them all together.
 
-- [ ] Upload at least 2 images so they are hosted in your Portfolio.
+- [x] Upload at least 2 images so they are hosted in your Portfolio.
 
-- [ ] Update the title tags of all your new HTML files.
+- [x] Update the title tags of all your new HTML files.
 
-- [ ] Link your CSS file to all of your HTML files.
+- [x] Link your CSS file to all of your HTML files.
 
 ### Wrap
 
-- [ ] If you have finished early, move on to the Day 4 tasks. 
-- [ ] Push your changes back to your GitHub repo!
+- [x] If you have finished early, move on to the Day 4 tasks. 
+- [x] Push your changes back to your GitHub repo!
 
 ## Day 4 
 
 ### Reflection
-- [ ] Go back to the rubric/checklist in your project plan. Check off all the tasks you have completed so far. 
+- [x] Go back to the rubric/checklist in your project plan. Check off all the tasks you have completed so far. 
 
 
 ### HTML
 
-- [ ] Add a professional headshot of yourself.
+- [x] Add a professional headshot of yourself.
 
 In your Projects page, create a display of at least 4 of your old coding projects that includes:
 
-    - [ ] Project name
-    - [ ] Link to project GitHub repo
-    - [ ] Link to project live site
-    - [ ] Short description of project including coding languages used
-    - [ ] Hosted screenshot of project
+    - [x] Project name
+    - [x] Link to project GitHub repo
+    - [x] Link to project live site
+    - [x] Short description of project including coding languages used
+    - [x] Hosted screenshot of project
 
 Add your contact information to your Contact page, including your:
 
-    - [ ] GitHub account
-    - [ ] Email address
-    - [ ] LinkedIn
-    - [ ] Resume
+    - [x] GitHub account
+    - [x] Email address
+    - [x] LinkedIn
+    - [x] Resume
 
 ### CSS
 
-- [ ] Format the sizes of all your pictures
+- [x] Format the sizes of all your pictures
 
 ### Wrap
 
-- [ ] Push your changes back to your GitHub repo!
+- [x] Push your changes back to your GitHub repo!
 
 
 ## Project Extensions (If you finish everything above early)
 
-- [ ] Style your nav bar so the links change color/style when your hover over them or when you click them.
+- [x] Style your nav bar so the links change color/style when your hover over them or when you click them.
 
-- [ ] Add a unordered or ordered list of your accomplishments or favorite things to your About Me page.
+- [x] Add a unordered or ordered list of your accomplishments or favorite things to your About Me page.
 
-- [ ] Make sure all your external links open up into new tabs.
+- [x] Make sure all your external links open up into new tabs.
 
-- [ ] Create a link that pops open the email browser with your email address in the to: field.
+- [x] Create a link that pops open the email browser with your email address in the to: field.
 
-- [ ] Arrange your Projects into a creative interactive or animated photo gallery or slideshow.
+- [x] Arrange your Projects into a creative interactive or animated photo gallery or slideshow.
 
 ## References/Tools
 

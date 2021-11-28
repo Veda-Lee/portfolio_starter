@@ -1,15 +1,161 @@
 /* CSS files add styling rules to your content */
 
+/*All*/
 h1 {
-  color: #9cfcff;
+  color: #ffc4c4;
+  font-family: "Shadows Into Light", cursive;
 }
 
-.navigation{
+h2 {
+  font-family: "Shadows Into Light", cursive;
+}
+
+h3 {
+  font-family: "Shadows Into Light", cursive;
+}
+.navigation {
   display: flex;
   justify-content: center;
 }
 
-.header{
+.header {
   display: flex;
   justify-content: center;
+  color: #ffc4c4;
+  font-family: "Shadows Into Light", cursive;
+}
+
+img {
+  width: 30%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 8em;
+}
+
+body {
+  background: url("https://cdn.glitch.me/d5abe0f8-3543-48a7-b44a-75ec0e7ee5d4%2Fthumbnails%2Flight-blue-aesthetics-light-blue-background-blue-Favim.com-7612685.jpg?1635915102907");
+  background-size: cover;
+}
+
+/*Home*/
+.home {
+  padding: 20px;
+  margin: 20px;
+  border: 5px solid #ffcccc;
+  background: white;
+}
+
+.aboutme {
+  padding: 20px;
+  margin: 20px;
+  border: 5px solid #ffe4cc;
+  background: white;
+}
+
+.projects {
+  padding: 20px;
+  margin: 20px;
+  border: 5px solid #ffffcc;
+  background: white;
+}
+
+.contact {
+  padding: 20px;
+  margin: 20px;
+  border: 5px solid #ccffd3;
+  background: white;
+}
+
+.indexImage {
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  border: 10px double #9ef2ff;
+  background: white;
+  padding: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 30px;
+}
+
+/*About Me*/
+.AboutMeSection {
+  font-family: "Shadows Into Light", cursive;
+  color: #ffc4c4;
+  border: 10px dashed #c4feff;
+  background: white;
+  padding: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 20px;
+}
+
+.extraInfo {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: "Shadows Into Light", cursive;
+  color: #ffc4c4;
+}
+.games {
+  border: 10px double #c4feff;
+  background: white;
+  padding: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 70px;
+  padding-left: 70px;
+  margin-top: 20px;
+}
+.songs {
+  border: 10px double #c4feff;
+  background: white;
+  padding: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 70px;
+  padding-left: 70px;
+  margin-top: 20px;
+}
+
+/*Projects*/
+
+.project1 {
+  border: 10px dashed #ffcccc;
+  background: white;
+  padding: 20px;
+}
+
+.project2 {
+  border: 10px dashed #ffe4cc;
+  background: white;
+  padding: 20px;
+}
+
+.project3 {
+  border: 10px dashed #ffffcc;
+  background: white;
+  padding: 20px;
+}
+
+.project4 {
+  border: 10px dashed #ccffd3;
+  background: white;
+  padding: 20px;
+}
+
+/*Contact*/
+.contactImages {
+  display: flex;
+  justify-content: center;
+  font-family: "Shadows Into Light", cursive;
+  color: #ffc4c4;
+  border: 10px double #c4feff;
+  background: white;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 20px;
 }
